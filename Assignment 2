@@ -1,0 +1,27 @@
+SDLC - Agile Model
+	There are various software development life cycle models defined and designed which are followed during software development process. 
+	These models are also referred as "Software Development Process Models".
+	 Each process model follows a Series of steps unique to its type, in order to ensure success in process of software development.
+	Following are the most important and popular SDLC models followed in the industry:
+•	Waterfall Model
+•	 Agile Model
+•	Spiral Model
+•	RAD Model
+
+	What is Agile ?
+•	Agile model believes that every project needs to be handled differently and the existing methods need to be tailored to best suit the project requirements.
+•	 In agile the tasks are divided to time boxes to deliver specific features for a release.
+•	Iterative approach is taken and working software build is delivered after each iteration. 
+•	Each build is incremental in terms of features,the final build holds all the features required by the customer.
+•	Here is a graphical illustration of the Agile Model,
+ 
+
+
+	Following are the Agile principles
+•	Individuals and interactions - in agile development, self-organization and motivation are important, as are interactions like co-location and pair programming.
+•	Working software - Demo working software is considered the best means of communication with the customer to understand their requirement, instead of just depending on documentation.
+•	Customer collaboration - As the requirements cannot be gathered completely in the beginning of the project due to various factors, continuous customer interaction is very important to get proper product requirements.
+•	Responding to change - agile development is focused on quick responses to change and continuous development.
+•	Agile SDLC model is a combination of iterative and incremental process models with focus on process adaptability and customer satisfaction by rapid delivery of working software product.
+•	Agile Methods break the product into small incremental builds. These builds are provided in iterations. Each iteration typically lasts from about one to three weeks. Every iteration involves cross functional teams working simultaneously on various areas like planning, requirements analysis, design, coding, unit testing, and acceptance testing.
+•	At the end of the iteration a working product is displayed to the customer and important stakeholders.
